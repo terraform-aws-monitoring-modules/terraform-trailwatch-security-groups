@@ -10,7 +10,5 @@
 - Alarms triggered based on defined thresholds for specific Security Group events.
 - Detailed variable descriptions for easy customization and configuration.
 
-## [1.0.1] - 2024-10-30
-
 ### Changed
 - Updated Terraform examples in [`README.md`](README.md) to reference the module source from the Terraform Registry.
